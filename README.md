@@ -5,7 +5,7 @@ _Speckle reduction is a key step in many remote sensing applications. By strongl
 A study with synthetic speckle noise is presented to compare the performances of the proposed method with other state-of-the-art filters. Then, results on real images are discussed, to show the potential of the proposed algorithm. The code is made available to allow testing and reproducible research in this field. 
 We release a notebook with Google Colab compatibility to test the method we propose in the article: "SAR2SAR: a self-supervised despeckling algorithm for SAR images", Emanuele Dalsasso, Loïc Denis, Florence Tupin_
 
-![summary_SAR2SAR](./img/summary_v4.pdf)
+![summary_SAR2SAR](./img/summary.png)
 
 ## Resources
 - [Paper (ArXiv)](https://arxiv.org/abs/2006.15037)
