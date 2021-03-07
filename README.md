@@ -1,3 +1,5 @@
+# Original code and odditional results are now on https://gitlab.telecom-paris.fr/RING/SAR2SAR
+
 # SAR2SAR: a self-supervised despeckling algorithm for SAR images
 ## Emanuele Dalsasso, Loïc Denis, Florence Tupin
 ## Abstract
